@@ -1,0 +1,2 @@
+# birinchi-project
+Birinchi project
